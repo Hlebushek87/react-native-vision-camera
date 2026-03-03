@@ -97,6 +97,10 @@ If you're integrating VisionCamera in a production app, consider [funding this p
 * 💬 [**Join the Margelo Community Discord**](https://margelo.com/discord) for chatting about VisionCamera
 * 💖 [**Sponsor me on GitHub**](https://github.com/sponsors/mrousavy) to support my work
 * 🍪 [**Buy me a Ko-Fi**](https://ko-fi.com/mrousavy) to support my work
+Branch2 change A
+Branch2 change B
+Branch2 change C
 Branch1 change 1
 Branch1 change 2
 Branch1 change 3
+кпкп
